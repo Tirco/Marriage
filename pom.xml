@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.13.2-R0.1-SNAPSHOT</version>
+            <version>1.16.3-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -77,8 +77,8 @@
         <!-- PlotSquared v5 -->
         <dependency>
             <groupId>com.plotsquared</groupId>
-            <artifactId>PlotSquared</artifactId>
-            <version>5.1</version>
+            <artifactId>PlotSquared-Core</artifactId>
+            <version>5.13.3</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
